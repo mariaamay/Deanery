@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Deanery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Deanery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Group.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Deanery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Group.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|C:\\Users\\PC\\source\\repos\\Deanery\\Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619BC57E-B353-4922-B934-1C1503F6C743}|Deanery.vcxproj|solutionrelative:Student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\ProjectPhonebookNew.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\src\\Animal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\include\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\src\\Animal.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\src\\Animal.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\src\\Animal.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\src\\Animal.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T17:11:28.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\include\\Animal.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\include\\Animal.h",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\include\\Animal.h",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\Class_Animal\\include\\Animal.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T17:11:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.h",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Group.h",
+              "RelativeDocumentMoniker": "Group.h",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Group.h",
+              "RelativeToolTip": "Group.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T17:06:38.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Group.cpp",
+              "RelativeDocumentMoniker": "Group.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Group.cpp",
+              "RelativeToolTip": "Group.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T17:09:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Student.cpp",
+              "RelativeDocumentMoniker": "Student.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Student.cpp",
+              "RelativeToolTip": "Student.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T17:08:49.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deanery.h",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.h",
+              "RelativeDocumentMoniker": "Deanery.h",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.h",
+              "RelativeToolTip": "Deanery.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T17:08:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deanery.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.cpp",
+              "RelativeDocumentMoniker": "Deanery.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Deanery.cpp",
+              "RelativeToolTip": "Deanery.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAMYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T17:09:34.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\Student.h",
+              "RelativeToolTip": "Student.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-05T17:06:11.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Deanery\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Deanery\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-07T21:26:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectPhonebookNew.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\ProjectPhonebookNew.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\ProjectPhonebookNew.cpp",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\ProjectPhonebookNew.cpp",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Studies\\Programming C\u002B\u002B\\ProjectPhonebookNew.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-05T18:40:38.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
